@@ -1,18 +1,14 @@
-## Getting Started
+## Desafio DIO - Trilha Java Básico
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+### Funcionalidades
 
-## Folder Structure
+- Permite ao usuário inserir informações sobre uma conta bancária através do terminal.
+- Exibe uma mensagem de boas-vindas com os detalhes da conta fornecidos pelo usuário.
 
-The workspace contains two folders by default, where:
+### Tecnologias Utilizadas
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- Java
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+### Estrutura do Projeto
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- **ContaTerminal.java**: Contém a classe principal do projeto, onde toda a lógica do programa é implementada.
